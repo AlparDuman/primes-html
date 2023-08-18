@@ -24,7 +24,7 @@ if ( number > 2 && number % 2 == 0 || number < 2 ) {
 }
 ```
 If `the number` is greater than 2 and is odd OR `the number` is less than 2:
-  can not be prime, because 2 is the lowest `prime number` and all `even numbers` greater than 2 can be formed by multiplying with 2 too
+- Can not be prime, because 2 is the lowest `prime number` and all `even numbers` greater than 2 can be formed by multiplying with 2 too
 ```
 i = 3
 ```
@@ -38,9 +38,9 @@ while ( i * i <= number ) {
 }
 ```
 While squaring the `composit number` is less or equal to `the number`:
-  If dividing the `composit number` through `the number` has no rest value, it's a `composite number` of `the number`:
+- If dividing the `composit number` through `the number` has no rest value, it's a `composite number` of `the number`:
     `The number` is not a prime
-  Else:
+- Else:
     raise value of `the number` by 2 (raising the value of an `odd number` will result in an `even number`, above 2 these can not be `prime numbers`)
 ```
 return true
