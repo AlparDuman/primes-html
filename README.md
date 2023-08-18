@@ -24,7 +24,7 @@ if ( number > 2 && number % 2 == 0 || number < 2 ) {
 }
 ```
 If `the number` is greater than 2 and is odd OR `the number` is less than 2:
-  can not be prime, because 2 is the lowest `prime number` and all `even numbers` greater than 2 can be formed by multiplying with 2
+  can not be prime, because 2 is the lowest `prime number` and all `even numbers` greater than 2 can be formed by multiplying with 2 too
 ```
 i = 3
 ```
