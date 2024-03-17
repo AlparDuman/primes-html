@@ -1,4 +1,4 @@
-## How does the Prime validater work?
+## How the Prime validater works
 ```
 function isPrime( number ) {
   if ( number > 2 && number % 2 == 0 || number < 2 ) {
