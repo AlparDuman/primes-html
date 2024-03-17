@@ -1,6 +1,3 @@
-# Simple-Primes-HTML
-Example to demonstrate a functional &amp; short HTML, CSS &amp; JS to friends
-
 ## How does the Prime validater work?
 ```
 function isPrime( number ) {
